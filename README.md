@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://beacons.ai/Suigetsu-Isaac">
-  <img height="180em" src="https://github-readme-status.vercel.app/api?username=Suigetsu-Isaac&show_icons=true&theme=dracula&include_all_comits=true&cont_private=true">
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=Suigetsu-Isaac&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suigetsu-Isaac&show_icons=true&theme=dracula&include_all_comits=true&cont_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suigetsu-Isaac&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 ##
